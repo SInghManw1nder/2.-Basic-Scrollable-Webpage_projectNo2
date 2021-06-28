@@ -239,7 +239,8 @@ footer {
 
 footer ul.socials {
   display: flex;
-  margin-top: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 footer ul.socials > * + * {
@@ -311,7 +312,7 @@ footer .copyright {
   }
   footer .content > * {
     flex: 1 0 30%;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
     text-align: left;
   }
   footer ul.socials {
@@ -319,6 +320,7 @@ footer .copyright {
   }
   footer .footer-cta {
     margin-bottom: 0;
+    margin-top: 20px;
   }
 }
 

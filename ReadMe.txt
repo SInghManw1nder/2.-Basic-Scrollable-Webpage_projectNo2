@@ -20,3 +20,8 @@ Date started: 27.06.2021
 Date ended: 27.06.2021
 Hours taken per day: 2 hours
 Total time taken: 2 hours
+********************************************************************************************************
+
+UPDATE:29.06.2021
+
+Made minor changes to spacing the footer section
